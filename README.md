@@ -1,0 +1,2 @@
+# Rental-Bike-Sharing-Exploratory-Data-Analysis-Using-Python
+An EDA project that analyzes rental bike sharing data using Python. In this project, data cleaning, statistical summary, analysis of relationships between variables, visualization of data distribution were performed. This project aims to provide an in-depth insight into the use of rental bikes and the factors that influence their demand.
